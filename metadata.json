@@ -1,0 +1,6 @@
+{
+  "name": "Strip the Label",
+  "description": "Choose what you truly want. Free from brand noise, logos, and price tags. Discover garments based on material integrity and structural fit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
